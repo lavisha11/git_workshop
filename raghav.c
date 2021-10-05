@@ -1,8 +1,9 @@
 
 #include<stdio.h>
-void main()
+int main()
 {
-printf("Hello world");
-printf("My Name is Raghav ")
+  printf("Hello world");
+  printf("My Name is Raghav ")
+  return 0;
 }
 
